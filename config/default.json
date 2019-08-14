@@ -1,6 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://sutra:2CAxep2SKhi2Vce@devconnector-wyoss.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "secret",
-  "githubClientId": "d346291e9b0de10a1f3c",
-  "githubSecret": "90e59e196447647546bed00a0ae2b9efa4c86745"
+  "mongoURI": "",
+  "jwtSecret": "",
+  "githubClientId": "",
+  "githubSecret": ""
 }

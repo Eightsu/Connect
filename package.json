@@ -1,7 +1,7 @@
 {
   "name": "reactbacktofront",
   "version": "1.0.0",
-  "description": "Social Network for Devs",
+  "description": "A hub for Devs",
   "main": "server.js",
   "scripts": {
     "start": "node server",
